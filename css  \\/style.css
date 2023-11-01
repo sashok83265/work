@@ -1,0 +1,280 @@
+#clock {
+	margin-left: 40px;
+	color:#00FF00;
+	width: 200px;
+}
+header { background-color: black;
+margin-top: 0px;
+border-style:inset;
+border-color: white;
+}
+footer { background-color: ;
+color: white;
+}
+body { background-color: white;
+}
+h1 {
+	color:black;
+}
+
+.box  { background-color:;
+padding: 25px;
+height:55px;
+width: 800px;
+background-color:;
+margin-left: 180px;
+animation-name: slidein;
+animation-duration:3s;
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left:180px;
+    width: 100%;
+  }
+}
+.box1{ background-color: white;
+padding: 15px;
+float: left;
+overflow: hidden;
+border-width: 2px;
+border-style: solid;
+margin-left: 225px;
+margin-top: 4px;
+}
+.box2 { background-color: white;
+padding: 15px;
+float: left;
+border-width: 2px;
+border-style: solid;
+margin-left: 2px;
+margin-top: 4px;
+
+
+}
+.box3 { background-color: white;
+padding: 15px;
+ @media screen and (min-resoulution:192dpi) {
+	  div {width: 80%}
+	  .supra {width:60%;
+	  height:60%;
+	  font-size: 80%}
+	  .supra2{width:60%;
+	  height:60%;
+	  font-size: 80%}
+	 
+  }
+    @media screen and (min-resoulution:978px) {
+	 div {width: 80%}
+	  .supra {width:60%;
+	  height:60%;
+	  font-size: 80%}
+	  .supra2{width:60%;
+	  height:60%;
+	  font-size: 80%}
+	  .video { width: 70%;
+	  height: 70%;}
+	  }
+	  
+	  @media screen and (max-width: 992px) { div. contentblock {width: 970px;} }      
+header { background-color: black;
+margin-top: 0px;
+border-style:inset;
+border-color: white;
+}
+footer { background-color: ;
+color: white;
+}
+body { background-color: white;
+}
+h1 {
+	color:black;
+}
+
+.box  { background-color:;
+padding: 25px;
+height:55px;
+width: 800px;
+background-color:;
+margin-left: 180px;
+animation-name: slidein;
+animation-duration:3s;
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left:180px;
+    width: 100%;
+  }
+}
+.box1{ background-color: white;
+padding: 15px;
+float: left;
+overflow: hidden;
+border-width: 2px;
+border-style: solid;
+margin-left: 225px;
+margin-top: 4px;
+}
+.box2 { background-color: white;
+padding: 15px;
+float: left;
+border-width: 2px;
+border-style: solid;
+margin-left: 2px;
+margin-top: 4px;
+
+
+}
+.box3 { background-color: white;
+padding: 15px;
+float: left;
+border-width: 2px;
+border-style: solid;
+margin-left: 2px;
+margin-top: 4px;
+
+}
+.info { margin-top: 572px;
+	padding: 1px;
+	background-color:;
+	color:white;
+}
+a { text-decoration: none;
+color:white;
+}
+.img { width:360px;
+height: 200px;
+border-style: solid;
+float: left;
+margin-left: 225px;
+margin-top: 4px;
+
+}
+.supra2 { width:360px;
+height: 200px;
+}
+.img1 { width:360px;
+height: 200px;
+border-style: solid;
+float: left;
+margin-left: 4px;
+margin-top: 4px;
+}
+.footer { border-style:outset;
+border-color: white;
+}
+.supra { width: 360px;
+height:200px;
+
+}
+.video { margin-left: 225px;
+width:720px;
+margin-top: 240px;
+}
+.video iframe { 
+width:736px;
+height:360px;
+}
+.Audi {width:720px;
+height:520px;
+}
+
+
+.info {margin-left:255px ;
+color: black;
+float:left;
+float:top;
+	
+}
+a:visited {color:black;
+	
+}
+a:active {color:black;
+	
+}
+#clock {
+	text-align:center;
+	padding:10px;
+	color:black;
+
+}
+header { background-color: black;
+margin-top: 0px;
+border-style:inset;
+border-color: white;
+}
+footer { background-color: ;
+color: white;
+}
+body { background-color: white;
+}
+h1 {
+	color:black;
+}
+
+.box  { background-color:;
+padding: 25px;
+height:55px;
+width: 800px;
+background-color:;
+margin-left: 180px;
+animation-name: slidein;
+animation-duration:3s;
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left:180px;
+    width: 100%;
+  }
+}
+.box1{ background-color: white;
+padding: 15px;
+float: left;
+overflow: hidden;
+border-width: 2px;
+border-style: solid;
+margin-left: 225px;
+margin-top: 4px;
+}
+.box2 { background-color: white;
+padding: 15px;
+float: left;
+border-width: 2px;
+border-style: solid;
+margin-left: 2px;
+margin-top: 4px;
+
+
+}
+.box3 { background-color: white;
+padding: 15px;
+float: left;
+border-width: 2px;
+border-style: solid;
+margin-left: 2px;
+margin-top: 4px;
+
+}
+.info { margin-top: 572px;
+	padding: 1px;
+	background-color:;
+	color:white;
+}
+a { text-decoration: none;
+color:white;
+}
+       
